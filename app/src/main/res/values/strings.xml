@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoccerAppMotasemEsaefan</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="competition">Competition</string>
+    <string name="image">image</string>
+    <string name="mota_app">Mota App</string>
+    <string name="im_home">im_home</string>
+    <string name="click_the_button_below">Click The Button Below</string>
+    <string name="image_button">image_button</string>
+    <string name="click_the_button_below_for_match_stats">Click the button below for Match Stats</string>
+</resources>
